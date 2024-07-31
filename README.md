@@ -1,2 +1,2 @@
 # CODSOFT
-CodSoft internship work
+CodSoft Internship work
